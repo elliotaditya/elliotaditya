@@ -13,11 +13,14 @@
 * 🧠 Focused on improving problem-solving and understanding modern AI systems
 
 ---
+
 🌐 Connect with me
 
 📫 Email: adityavishwakarmadd@gmail.com
 
 💼 LinkedIn: elliotaditya
+
+---
 
 ⚡ Tech Stack
 
