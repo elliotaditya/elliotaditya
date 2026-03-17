@@ -1,4 +1,4 @@
-👋 Hi, I’m @elliotaditya
+👋 Hi, I’m Aditya
 
 * 👀 I’m interested in **Artificial Intelligence, Deep Learning, Large Language Models (LLMs), and Data Structures & Algorithms**
 * 🌱 I’m currently learning **Machine Learning, Deep Learning, LLMs, and DSA**
